@@ -19,6 +19,7 @@ Ce projet permet de prédire les précipitations journalières et saisonnières 
 
 ```bash
 python -m venv venv
-2. **Activer l’environnement virtuel**
+```bash
 venv\Scripts\activate
+
 
