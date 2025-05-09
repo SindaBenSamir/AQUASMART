@@ -21,6 +21,8 @@ python -m venv venv
 2. **Activer l’environnement virtuel**
    ```bash
 venv\Scripts\activate
+
+---
 ## 💧 Détection d’anomalies (via Autoencoder GRU)
 
 ### 📂 Dataset
