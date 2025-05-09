@@ -11,15 +11,19 @@ Ce projet permet de prédire les précipitations journalières et saisonnières 
 - `prediction.py` : Prédiction journalière des précipitations.
 - `prediction_saiso.py` : Prédiction saisonnière (saison sèche, moyenne ou pluvieuse).
 - `main_predictor.py` : Lance automatiquement la récupération des données + prédiction.
-- `season_api.py` : Prédit la saison à partir des données récupérées via l’API.
+- `season_api.py` : Rend l'API de la prédiction saisonniére.
 
 ## ⚙️ Installation
 
 1. **Créer un environnement virtuel**
-
 ```bash
 python -m venv venv
-```bash
+2. **Activer l’environnement virtuel**
+   ```bash
 venv\Scripts\activate
+
+4. 
+
+
 
 
